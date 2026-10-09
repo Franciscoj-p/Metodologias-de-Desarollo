@@ -1,0 +1,6 @@
+Información de la Materia
+--------------------------
+Asignatura: Metodologías de Desarrollo
+Actividad: Prueba práctica de Git y control de versiones
+Estudiante: Juan Francisco Popo (202515537)
+Rama Git: metodologias-de-desarrollo
