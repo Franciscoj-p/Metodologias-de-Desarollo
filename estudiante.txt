@@ -1,0 +1,6 @@
+Información del Estudiante
+----------------------------
+Nombre: Juan Francisco Popo
+Código: 202515537
+Materia: Metodologías de Desarrollo
+Rama Git: 202515537
