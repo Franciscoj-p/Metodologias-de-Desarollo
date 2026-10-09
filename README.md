@@ -10,14 +10,11 @@ Este repositorio es una prueba práctica para la materia **Metodologías de Desa
 ---
 
 ## Estructura de Ramas (Branches)
-- `main`: Rama principal del proyecto con la versión base del Hola Mundo.
+- `main`: Rama principal del proyecto con el Hola Mundo en HTML (`index.html`).
 - `202515537`: Rama identificada con el código del estudiante.
 - `metodologias-de-desarrollo`: Rama identificada con el nombre de la materia.
 
 ---
 
-## Ejecución del Programa
-Para ejecutar el script con Node.js:
-```bash
-node index.js
-```
+## Ejecución
+Abre directamente el archivo `index.html` en cualquier navegador web.
